@@ -1,0 +1,3 @@
+# AnaDB
+
+The architecture documentation will be published to this directory...
